@@ -5,4 +5,4 @@ the main mission for this project is the dashboard and not the story-telling.
 
 The dashboards are interactive with the slicers in the original report.
 
-Unfortnately Microsoft demands a subscription to share it as is, feel free to review the PDF export.
+Unfortnately Microsoft demands a subscription to share it as is but feel free to review the PDF export.
